@@ -1,4 +1,4 @@
-# Human_microbiome_PPI
+# Human microbiome PPI
 
 In-house scripts include random forest classifier training and feature importance ranking for putative human-microbiome protein protein interactions using metagenomic data from human cohort studies.
 
